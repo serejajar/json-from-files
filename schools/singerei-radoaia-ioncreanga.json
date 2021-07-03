@@ -18,9 +18,9 @@
   "bac": [
     {
       "year": "2019",
-      "candidats": "23",
-      "rejectedCandidats": "3",
-      "mediumNote": "6.00"
+      "candidats": 23,
+      "rejectedCandidats": 3,
+      "mediumNote": 6
     }
   ],
   "students": []
