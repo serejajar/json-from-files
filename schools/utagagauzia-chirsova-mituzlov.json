@@ -1,0 +1,27 @@
+{
+  "id": "utagagauzia-chirsova-mituzlov",
+  "keywords": [],
+  "name": {
+    "ro": "Liceul Teoretic \"\"M.I. TUZLOV\"\" s. CHIRSOVA",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "20",
+      "rejectedCandidats": "1",
+      "mediumNote": "6.82"
+    }
+  ],
+  "students": []
+}

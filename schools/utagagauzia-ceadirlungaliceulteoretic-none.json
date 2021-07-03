@@ -1,0 +1,27 @@
+{
+  "id": "utagagauzia-ceadirlungaliceulteoretic-none",
+  "keywords": [],
+  "name": {
+    "ro": "Nr. 2 mun. CEADÎR-LUNGA",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "14",
+      "rejectedCandidats": "3",
+      "mediumNote": "6.56"
+    }
+  ],
+  "students": []
+}

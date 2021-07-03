@@ -1,0 +1,27 @@
+{
+  "id": "utagagauzia-congaz-todurzanet",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC \"\"TODUR ZANET\"\" s.CONGAZ",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "15",
+      "rejectedCandidats": "3",
+      "mediumNote": "6.77"
+    }
+  ],
+  "students": []
+}

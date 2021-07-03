@@ -1,0 +1,27 @@
+{
+  "id": "tiraspol-tiraspol-lucianblaga",
+  "keywords": [],
+  "name": {
+    "ro": "Liceul Teoretic \"\"Lucian Blaga\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "18",
+      "rejectedCandidats": "2",
+      "mediumNote": "6.84"
+    }
+  ],
+  "students": []
+}

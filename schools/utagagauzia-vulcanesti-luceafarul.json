@@ -1,0 +1,27 @@
+{
+  "id": "utagagauzia-vulcanesti-luceafarul",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC \"\"LUCEAFĂRUL\"\" OR. VULCĂNEŞTI",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "12",
+      "rejectedCandidats": "0",
+      "mediumNote": "5.96"
+    }
+  ],
+  "students": []
+}

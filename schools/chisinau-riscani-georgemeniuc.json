@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-riscani-georgemeniuc",
+  "keywords": [],
+  "name": {
+    "ro": "Liceul Teoretic \"\"George Meniuc\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "38",
+      "rejectedCandidats": "3",
+      "mediumNote": "7.03"
+    }
+  ],
+  "students": []
+}

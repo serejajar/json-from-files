@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-gratiesti-gratiesti",
+  "keywords": [],
+  "name": {
+    "ro": "Liceul Teoretic \"\"Grătieşti\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "9",
+      "rejectedCandidats": "1",
+      "mediumNote": "5.78"
+    }
+  ],
+  "students": []
+}

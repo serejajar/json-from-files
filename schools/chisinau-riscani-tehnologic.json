@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-riscani-tehnologic",
+  "keywords": [],
+  "name": {
+    "ro": "RÎŞCANI CHIŞINĂU Instituţia Publică Liceul Tehnologic Resurse Educaţionale şi Trayning Tehnologic Tehnologic (OPT) \"\"Beniamin Zeev Herţli\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "35",
+      "rejectedCandidats": "1",
+      "mediumNote": "7.02"
+    }
+  ],
+  "students": []
+}

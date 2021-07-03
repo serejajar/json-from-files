@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-botanica-none",
+  "keywords": [],
+  "name": {
+    "ro": "Instituţia Publică Liceul Teoretic cu Învăţământ Seral nr.2",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "140",
+      "rejectedCandidats": "37",
+      "mediumNote": "5.87"
+    }
+  ],
+  "students": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-cricova-alexeimateevici",
+  "keywords": [],
+  "name": {
+    "ro": "Instituţia Publică Liceul Teoretic \"\"Alexei Mateevici\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "25",
+      "rejectedCandidats": "0",
+      "mediumNote": "7.19"
+    }
+  ],
+  "students": []
+}

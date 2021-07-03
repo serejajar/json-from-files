@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-chisinau-none",
+  "keywords": [],
+  "name": {
+    "ro": "Seminarul Teologic Ortodox",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "25",
+      "rejectedCandidats": "6",
+      "mediumNote": "6.14"
+    }
+  ],
+  "students": []
+}

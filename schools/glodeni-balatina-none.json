@@ -1,0 +1,27 @@
+{
+  "id": "glodeni-balatina-none",
+  "keywords": [],
+  "name": {
+    "ro": "INSTITUŢIA PUBLICĂ LICEUL TEORETIC BALATINA",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "34",
+      "rejectedCandidats": "8",
+      "mediumNote": "6.94"
+    }
+  ],
+  "students": []
+}

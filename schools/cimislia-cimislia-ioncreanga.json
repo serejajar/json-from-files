@@ -1,0 +1,27 @@
+{
+  "id": "cimislia-cimislia-ioncreanga",
+  "keywords": [],
+  "name": {
+    "ro": "Instituţia Publică LICEUL TEORETIC \"\"ION CREANGĂ\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "41",
+      "rejectedCandidats": "1",
+      "mediumNote": "6.75"
+    }
+  ],
+  "students": []
+}

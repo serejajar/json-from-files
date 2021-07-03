@@ -1,0 +1,27 @@
+{
+  "id": "singerei-singerei-mihaieminescu",
+  "keywords": [],
+  "name": {
+    "ro": "INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"\"MIHAI EMINESCU\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "55",
+      "rejectedCandidats": "0",
+      "mediumNote": "6.99"
+    }
+  ],
+  "students": []
+}

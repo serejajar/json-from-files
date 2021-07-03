@@ -1,0 +1,27 @@
+{
+  "id": "ungheni-pirlita-alexeimateevici",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC \"\"ALEXEI MATEEVICI\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "37",
+      "rejectedCandidats": "7",
+      "mediumNote": "6.33"
+    }
+  ],
+  "students": []
+}

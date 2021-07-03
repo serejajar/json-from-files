@@ -1,0 +1,27 @@
+{
+  "id": "utagagauzia-vulcanesti-adoljnenko",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC \"\"A. DOLJNENKO\"\" or. VULCĂNEŞTI",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "34",
+      "rejectedCandidats": "1",
+      "mediumNote": "6.66"
+    }
+  ],
+  "students": []
+}

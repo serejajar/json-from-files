@@ -1,0 +1,27 @@
+{
+  "id": "cahul-cahul-meminescu",
+  "keywords": [],
+  "name": {
+    "ro": "Instituţia Publică Liceul Teoretic \"\"M.Eminescu\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "55",
+      "rejectedCandidats": "4",
+      "mediumNote": "6.77"
+    }
+  ],
+  "students": []
+}

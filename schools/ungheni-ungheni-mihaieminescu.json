@@ -1,0 +1,27 @@
+{
+  "id": "ungheni-ungheni-mihaieminescu",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC \"\"MIHAI EMINESCU\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "83",
+      "rejectedCandidats": "3",
+      "mediumNote": "6.55"
+    }
+  ],
+  "students": []
+}

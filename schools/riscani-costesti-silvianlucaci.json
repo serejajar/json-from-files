@@ -1,0 +1,27 @@
+{
+  "id": "riscani-costesti-silvianlucaci",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC \"\"SILVIAN LUCACI\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "19",
+      "rejectedCandidats": "2",
+      "mediumNote": "6.28"
+    }
+  ],
+  "students": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "criuleni-boscana-mihaistratulat",
+  "keywords": [],
+  "name": {
+    "ro": "Liceul Teoretic \"\"Mihai Stratulat\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "24",
+      "rejectedCandidats": "5",
+      "mediumNote": "6.05"
+    }
+  ],
+  "students": []
+}

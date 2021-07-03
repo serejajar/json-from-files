@@ -1,0 +1,27 @@
+{
+  "id": "balti-balti-vmaiakovski",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC \"\"V. MAIAKOVSKI\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "21",
+      "rejectedCandidats": "2",
+      "mediumNote": "6.24"
+    }
+  ],
+  "students": []
+}

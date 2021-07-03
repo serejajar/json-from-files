@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-stauceni-dragosvoda",
+  "keywords": [],
+  "name": {
+    "ro": "Liceul Teoretic \"\"Dragoş Vodă\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "24",
+      "rejectedCandidats": "1",
+      "mediumNote": "7.04"
+    }
+  ],
+  "students": []
+}

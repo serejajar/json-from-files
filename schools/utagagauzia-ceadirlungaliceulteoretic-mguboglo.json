@@ -1,0 +1,27 @@
+{
+  "id": "utagagauzia-ceadirlungaliceulteoretic-mguboglo",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC RAIONAL \"\"M.GUBOGLO\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "39",
+      "rejectedCandidats": "2",
+      "mediumNote": "6.83"
+    }
+  ],
+  "students": []
+}

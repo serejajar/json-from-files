@@ -1,0 +1,27 @@
+{
+  "id": "cahul-cahul-prumeantev",
+  "keywords": [],
+  "name": {
+    "ro": "Instituţia Publică Liceul Teoretic \"\"P.Rumeanţev\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "32",
+      "rejectedCandidats": "9",
+      "mediumNote": "6.40"
+    }
+  ],
+  "students": []
+}

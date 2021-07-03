@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-riscani-waldorf",
+  "keywords": [],
+  "name": {
+    "ro": "Liceu Teoretic \"\"Waldorf\"\" (cu grupe de grădiniţă)",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "24",
+      "rejectedCandidats": "0",
+      "mediumNote": "7.47"
+    }
+  ],
+  "students": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-ciocana-dacia",
+  "keywords": [],
+  "name": {
+    "ro": "Liceul Teoretic \"\"Dacia\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "33",
+      "rejectedCandidats": "4",
+      "mediumNote": "6.17"
+    }
+  ],
+  "students": []
+}

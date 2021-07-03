@@ -1,0 +1,27 @@
+{
+  "id": "ungheni-ungheni-alexandrpuskin",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC \"\"ALEXANDR PUŞKIN\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "25",
+      "rejectedCandidats": "1",
+      "mediumNote": "6.55"
+    }
+  ],
+  "students": []
+}

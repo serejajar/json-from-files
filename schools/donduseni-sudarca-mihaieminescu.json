@@ -1,0 +1,27 @@
+{
+  "id": "donduseni-sudarca-mihaieminescu",
+  "keywords": [],
+  "name": {
+    "ro": "Liceul Teoretic \"\"Mihai Eminescu\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "8",
+      "rejectedCandidats": "1",
+      "mediumNote": "6.25"
+    }
+  ],
+  "students": []
+}

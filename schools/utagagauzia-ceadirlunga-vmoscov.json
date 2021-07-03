@@ -1,0 +1,27 @@
+{
+  "id": "utagagauzia-ceadirlunga-vmoscov",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC \"\"V.MOŞCOV\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "43",
+      "rejectedCandidats": "0",
+      "mediumNote": "6.73"
+    }
+  ],
+  "students": []
+}

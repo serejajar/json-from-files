@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-botanica-valecsandri",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC \"\"V.ALECSANDRI\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "62",
+      "rejectedCandidats": "3",
+      "mediumNote": "6.66"
+    }
+  ],
+  "students": []
+}

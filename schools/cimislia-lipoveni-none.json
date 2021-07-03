@@ -1,0 +1,27 @@
+{
+  "id": "cimislia-lipoveni-none",
+  "keywords": [],
+  "name": {
+    "ro": "Instituţia Publică LICEU INTERNAT CU PROFIL SPORTIV",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "28",
+      "rejectedCandidats": "4",
+      "mediumNote": "7.08"
+    }
+  ],
+  "students": []
+}

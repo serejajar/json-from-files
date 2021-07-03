@@ -1,0 +1,27 @@
+{
+  "id": "hincesti-hincesti-mihaieminescu",
+  "keywords": [],
+  "name": {
+    "ro": "Liceul Teoretic \"\"Mihai Eminescu\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "52",
+      "rejectedCandidats": "0",
+      "mediumNote": "6.90"
+    }
+  ],
+  "students": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "utagagauzia-chioseliarusa-grvieru",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC \"\"GR.VIERU\"\" s. CHIOSELIA RUSĂ",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "15",
+      "rejectedCandidats": "0",
+      "mediumNote": "6.85"
+    }
+  ],
+  "students": []
+}

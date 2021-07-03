@@ -1,0 +1,27 @@
+{
+  "id": "basarabeasca-abaclia-constantinstere",
+  "keywords": [],
+  "name": {
+    "ro": "INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"\"CONSTANTIN STERE\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "30",
+      "rejectedCandidats": "0",
+      "mediumNote": "6.82"
+    }
+  ],
+  "students": []
+}

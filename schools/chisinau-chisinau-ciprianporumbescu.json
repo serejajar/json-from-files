@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-chisinau-ciprianporumbescu",
+  "keywords": [],
+  "name": {
+    "ro": "Liceul-internat Republican de muzică \"\"Ciprian Porumbescu\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "29",
+      "rejectedCandidats": "0",
+      "mediumNote": "7.46"
+    }
+  ],
+  "students": []
+}

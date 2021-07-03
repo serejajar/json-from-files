@@ -1,0 +1,27 @@
+{
+  "id": "cahul-giurgiulesti-msadoveanu",
+  "keywords": [],
+  "name": {
+    "ro": "Instituţia Publică Liceul Teoretic \"\"M.Sadoveanu\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "24",
+      "rejectedCandidats": "0",
+      "mediumNote": "6.99"
+    }
+  ],
+  "students": []
+}

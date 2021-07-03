@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-riscani-gcalinescu",
+  "keywords": [],
+  "name": {
+    "ro": "Liceul Teoretic \"\"G.Călinescu\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "63",
+      "rejectedCandidats": "1",
+      "mediumNote": "6.99"
+    }
+  ],
+  "students": []
+}

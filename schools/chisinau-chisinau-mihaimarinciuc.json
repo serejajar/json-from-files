@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-chisinau-mihaimarinciuc",
+  "keywords": [],
+  "name": {
+    "ro": "Liceul Teoretic cu Profil Real \"\"Mihai Marinciuc\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "44",
+      "rejectedCandidats": "1",
+      "mediumNote": "7.24"
+    }
+  ],
+  "students": []
+}

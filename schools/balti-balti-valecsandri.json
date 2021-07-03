@@ -1,0 +1,27 @@
+{
+  "id": "balti-balti-valecsandri",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC \"\"V. ALECSANDRI\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "39",
+      "rejectedCandidats": "2",
+      "mediumNote": "6.89"
+    }
+  ],
+  "students": []
+}

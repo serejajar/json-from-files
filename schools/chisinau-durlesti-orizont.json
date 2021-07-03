@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-durlesti-orizont",
+  "keywords": [],
+  "name": {
+    "ro": "Instituţia Privată de Învăţămînt Liceul Teoretic \"\"ORIZONT\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "77",
+      "rejectedCandidats": "2",
+      "mediumNote": "7.84"
+    }
+  ],
+  "students": []
+}

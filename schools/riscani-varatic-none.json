@@ -1,0 +1,27 @@
+{
+  "id": "riscani-varatic-none",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC VĂRATIC",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "10",
+      "rejectedCandidats": "0",
+      "mediumNote": "7.00"
+    }
+  ],
+  "students": []
+}

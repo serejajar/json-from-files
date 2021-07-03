@@ -1,0 +1,27 @@
+{
+  "id": "leova-leova-constantinspataru",
+  "keywords": [],
+  "name": {
+    "ro": "Liceul Teoretic \"\"Constantin Spătaru\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "50",
+      "rejectedCandidats": "0",
+      "mediumNote": "6.42"
+    }
+  ],
+  "students": []
+}

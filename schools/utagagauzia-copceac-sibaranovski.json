@@ -1,0 +1,27 @@
+{
+  "id": "utagagauzia-copceac-sibaranovski",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC \"\"S.I.BARANOVSKI\"\" s. COPCEAC",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "34",
+      "rejectedCandidats": "0",
+      "mediumNote": "7.12"
+    }
+  ],
+  "students": []
+}

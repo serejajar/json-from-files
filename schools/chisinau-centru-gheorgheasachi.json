@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-centru-gheorgheasachi",
+  "keywords": [],
+  "name": {
+    "ro": "Instituţia Publică Liceul Teoretic \"\"Gheorghe Asachi\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "103",
+      "rejectedCandidats": "1",
+      "mediumNote": "7.83"
+    }
+  ],
+  "students": []
+}

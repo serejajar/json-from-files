@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-botanica-bogdanpetriceicuhasdeu",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC \"\"BOGDAN PETRICEICU HAŞDEU\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "39",
+      "rejectedCandidats": "1",
+      "mediumNote": "6.63"
+    }
+  ],
+  "students": []
+}

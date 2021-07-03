@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-buiucani-elimulnou",
+  "keywords": [],
+  "name": {
+    "ro": "Instituţia de Învăţământ Liceul Teoretic \"\"Elimul Nou\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "35",
+      "rejectedCandidats": "0",
+      "mediumNote": "7.99"
+    }
+  ],
+  "students": []
+}

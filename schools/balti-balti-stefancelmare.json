@@ -1,0 +1,27 @@
+{
+  "id": "balti-balti-stefancelmare",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC \"\"ŞTEFAN CEL MARE\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "32",
+      "rejectedCandidats": "2",
+      "mediumNote": "6.53"
+    }
+  ],
+  "students": []
+}

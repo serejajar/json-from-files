@@ -1,0 +1,27 @@
+{
+  "id": "riscani-riscani-liviudamian",
+  "keywords": [],
+  "name": {
+    "ro": "LICEUL TEORETIC \"\"LIVIU DAMIAN\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "21",
+      "rejectedCandidats": "0",
+      "mediumNote": "7.14"
+    }
+  ],
+  "students": []
+}

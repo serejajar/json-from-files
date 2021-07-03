@@ -1,0 +1,27 @@
+{
+  "id": "balti-balti-ioncreanga",
+  "keywords": [],
+  "name": {
+    "ro": "Liceul Teoretic Republican \"\"Ion Creangă\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "123",
+      "rejectedCandidats": "1",
+      "mediumNote": "7.36"
+    }
+  ],
+  "students": []
+}

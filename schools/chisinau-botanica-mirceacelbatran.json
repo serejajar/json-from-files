@@ -1,0 +1,27 @@
+{
+  "id": "chisinau-botanica-mirceacelbatran",
+  "keywords": [],
+  "name": {
+    "ro": "Liceul Teoretic \"\"Mircea cel Bătrân\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "29",
+      "rejectedCandidats": "7",
+      "mediumNote": "5.95"
+    }
+  ],
+  "students": []
+}

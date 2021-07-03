@@ -1,0 +1,27 @@
+{
+  "id": "ialoveni-costesti-none",
+  "keywords": [],
+  "name": {
+    "ro": "Liceul Teoretic Costeşti",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "25",
+      "rejectedCandidats": "3",
+      "mediumNote": "6.73"
+    }
+  ],
+  "students": []
+}

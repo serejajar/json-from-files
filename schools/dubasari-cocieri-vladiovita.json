@@ -1,0 +1,27 @@
+{
+  "id": "dubasari-cocieri-vladiovita",
+  "keywords": [],
+  "name": {
+    "ro": "Liceul Teoretic \"\"Vlad Ioviţă\"\"",
+    "ru": ""
+  },
+  "site": "",
+  "fb": "",
+  "address": {
+    "district": "",
+    "city": "",
+    "street": "",
+    "building": ""
+  },
+  "type": "licei",
+  "languages": [],
+  "bac": [
+    {
+      "year": "2019",
+      "candidats": "10",
+      "rejectedCandidats": "1",
+      "mediumNote": "6.36"
+    }
+  ],
+  "students": []
+}
