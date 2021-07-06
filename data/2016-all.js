@@ -16,22 +16,22 @@ const bac2016all = `
 15   CHISINAU       RISCANI    Liceul Teoretic "Academia Copiilor"                                   21          21             0      100,00      7,18
 16   CHISINAU       BUIUCANI    Liceul "Evrica"                                                      10          10             0      100,00      7,02
 17   NISPORENI      GROZEŞTI          Instituţia Publică Liceul Teoretic "Prometeu"                        23          23             0      100,00      6,97
-18   UTA GĂGĂUZIA   AVDARMA           LICEUL TEORETIC "D.CELENGHIR"                                        15          15             0      100,00      6,96
+18   GAGAUZIA   AVDARMA           LICEUL TEORETIC "D.CELENGHIR"                                        15          15             0      100,00      6,96
 19   CHISINAU       CHISINAU          Liceul-internat Republican de muzică "Ciprian Porumbescu"            22          22             0      100,00      6,94
-20   CĂUŞENI        CĂUŞENI           LICEUL TEORETIC "M.EMINESCU"                                         32          32             0      100,00      6,93
+20   CAUSENI        CAUSENI           LICEUL TEORETIC "M.EMINESCU"                                         32          32             0      100,00      6,93
 21   EDINET         EDINET            SEMINARUL TEOLOGIC LICEAL DE FETE                                     7           7             0      100,00      6,79
 22   TARACLIA       CORTEN            LICEUL TEORETIC "SFÎNTUL PAISII HILENDARSCHI"                        18          18             0      100,00      6,72
 23   CHISINAU       RISCANI    Liceul Tehnologic Resurse Educaţionale şi Trayning Tehnologic (OPT) "Beniamin Zeev Herţli"   26   26   0   100,00    6,72
 24   CHISINAU       RISCANI    Liceul de Limbi Moderne şi Management                                  6           6             0      100,00      6,63
 25   CHISINAU       STAUCENI          Liceul Teoretic "Dragoş Vodă"                                        30          30             0      100,00      6,58
 26   FLOREŞTI       FLOREŞTI          Liceul Teoretic "A. Cehov"                                            6           6             0      100,00      6,53
-27   UTA GĂGĂUZIA   COMRAT            LICEUL TEORETIC "M.EMINESCU"                                         17          17             0      100,00      6,18
-28   UTA GĂGĂUZIA   CHIOSELIA RUSĂ    LICEUL TEORETIC "GR.VIERU"                                           15          15             0      100,00      5,98
+27   GAGAUZIA   COMRAT            LICEUL TEORETIC "M.EMINESCU"                                         17          17             0      100,00      6,18
+28   GAGAUZIA   CHIOSELIA RUSĂ    LICEUL TEORETIC "GR.VIERU"                                           15          15             0      100,00      5,98
 29   CHISINAU       RISCANI    Liceul Teoretic "Ion Creangă"                                         91          90             1       98,90      7,75
-30   UTA GĂGĂUZIA   COMRAT            LICEUL TEORETIC RAIONAL "G.A.GAIDARJI"                               52          51             1       98,08      6,74
-31   CĂUŞENI        CĂUŞENI           LICEUL TEORETIC "A.MATEEVICI"                                        81          79             2       97,53      6,83
+30   GAGAUZIA   COMRAT            LICEUL TEORETIC RAIONAL "G.A.GAIDARJI"                               52          51             1       98,08      6,74
+31   CAUSENI        CAUSENI           LICEUL TEORETIC "A.MATEEVICI"                                        81          79             2       97,53      6,83
 32   CHISINAU       BOTANICA   Liceul "Nicolae Iorga"                                                97          94             3       96,91      7,24
-33   ANENII NOI     ANENII NOI        Instituţie Publică Liceul Teoretic "Mihai Eminescu"                  32          31             1       96,88      6,58
+33   ANENIINOI     ANENIINOI        Instituţie Publică Liceul Teoretic "Mihai Eminescu"                  32          31             1       96,88      6,58
 34   CHISINAU       BUIUCANI    Liceul Teoretic "Dante Alighieri"                                    63          61             2       96,83      7,48
 35   CHISINAU       BUIUCANI    Instituţia Publică Liceul Teoretic "Alexandr Puşkin"                 63          61             2       96,83      7,07
 36   DUBĂSARI       DUBĂSARI          Liceul Teoretic "Mihai Eminescu"                                     59          57             2       96,61      6,66
@@ -50,7 +50,7 @@ const bac2016all = `
  49   HÎNCEŞTI       HÎNCEŞTI          Liceul Teoretic "M. Sadoveanu"                                                        79    74    5   93,67   6,90
  50   CHISINAU       BUIUCANI    Instituţia Publică Liceul Teoretic "Principesa Natalia Dadiani"                       59    55    4   93,22   7,14
  51   CHISINAU       BOTANICA   LICEUL TEORETIC "DIMITRIE CANTEMIR"                                                    39    36    3   92,31   7,11
- 52   ANENII NOI     VARNIŢA           Instituţie Publică Liceul Teoretic Varniţa                                            25    23    2   92,00   7,11
+ 52   ANENIINOI     VARNIŢA           Instituţie Publică Liceul Teoretic Varniţa                                            25    23    2   92,00   7,11
  53   BALTI          BALTI             Liceul Teoretic Republican "Ion Creangă"                                             110   101    9   91,82   6,76
  54   BALTI          BALTI             LICEUL TEORETIC "V.MAIAKOVSKI"                                                        12    11    1   91,67   6,62
  55   STRĂŞENI       ZUBREŞTI          INSTITUŢIA PUBLICĂ LICEUL TEORETIC ZUBREŞTI                                           12    11    1   91,67   6,27
@@ -58,7 +58,7 @@ const bac2016all = `
  57   DUBĂSARI       COCIERI           Liceul Teoretic "Vlad Ioviţă"                                                         34    31    3   91,18   6,35
  58   CĂLĂRAŞI       CĂLĂRAŞI          Instituţia Publică Liceul Teoretic "Mihail Sadoveanu"                                 55    50    5   90,91   7,07
  59   DUBĂSARI       MOLOVATA          Liceul Teoretic "Ştefan cel Mare"                                                     11    10    1   90,91   6,40
- 60   UTA GĂGĂUZIA   CEADÎR-LUNGA      FILIALA CEADÎR-LUNGA A INSTITUŢIEI PRIVATE DE ÎNVĂŢĂMÎNT LICEUL TEORETIC "ORIZONT"    32    29    3   90,63   6,63
+ 60   GAGAUZIA   CEADÎR-LUNGA      FILIALA CEADÎR-LUNGA A INSTITUŢIEI PRIVATE DE ÎNVĂŢĂMÎNT LICEUL TEORETIC "ORIZONT"    32    29    3   90,63   6,63
  61   CHISINAU       CIOCANA    Liceul Teoretic cu profil de arte "Mihail Berezovschi"                                117   106   11   90,60   6,86
  62   CRIULENI       CRUGLIC           Liceul Teoretic CRUGLIC                                                               21    19    2   90,48   6,45
  63   TELENEŞTI      TELENEŞTI         LICEUL TEORETIC ”LUCIAN BLAGA”                                                        62    56    6   90,32   6,60
@@ -72,7 +72,7 @@ const bac2016all = `
  71   EDINET         EDINET            Instituţie Publică Liceul Teoretic "V.Suhomlinski"                                    29    26    3   89,66   6,65
  72   NISPORENI      BĂLĂUREŞTI        Instituţia Publică Liceul Teoretic Bălăureşti                                         19    17    2   89,47   6,40
  73   TARACLIA       TVARDIŢA          LICEUL TEORETIC TVARDIŢA                                                              28    25    3   89,29   6,60
- 74   ANENII NOI     PUHĂCENI          Instituţie Publică Liceul Teoretic "Olimp"                                            28    25    3   89,29   6,08
+ 74   ANENIINOI     PUHĂCENI          Instituţie Publică Liceul Teoretic "Olimp"                                            28    25    3   89,29   6,08
  75   UNGHENI        UNGHENI           LICEUL TEORETIC "VASILE ALECSANDRI"                                                   73    65    8   89,04   7,21
  76   CHISINAU       BUIUCANI    Liceul Teoretic "Antioh Cantemir"                                                     45    40    5   88,89   6,88
  77   SÎNGEREI       SÎNGEREI          LICEUL TEORETIC "MIHAI EMINESCU"                                                      63    56    7   88,89   6,57
@@ -89,7 +89,7 @@ const bac2016all = `
  88   DUBĂSARI       DOROŢCAIA         Liceul Teoretic "Ştefan cel Mare şi Sfînt"                                             8     7    1   87,50   6,64
  89   CRIULENI       CRIULENI          Liceul Teoretic "Boris Dînga"                                                         62    54    8   87,10   6,75
  90   IALOVENI       BARDAR            Liceul Teoretic "Aurel David"                                                         15    13    2   86,67   7,27
- 91   UTA GĂGĂUZIA   CEADÎR-LUNGA      LICEUL TEORETIC "V.MOŞCOV"                                                            30    26    4   86,67   6,81
+ 91   GAGAUZIA   CEADÎR-LUNGA      LICEUL TEORETIC "V.MOŞCOV"                                                            30    26    4   86,67   6,81
  92   EDINET         EDINET            Instituţie Publică Liceul Teoretic "Pan Halippa"                                      67    58    9   86,57   6,56
  93   FĂLEŞTI        SCUMPIA           INSTITUŢIA PUBLICĂ LICEUL TEORETIC "VASILE ALECSANDRI"                                22    19    3   86,36   6,38
  94   BALTI          BALTI             LICEUL TEORETIC "M.LOMONOSOV"                                                         29    25    4   86,21   6,54
@@ -110,17 +110,17 @@ const bac2016all = `
 109   IALOVENI       IALOVENI          Liceul Teoretic "Petre Ştefănucă"                            53   45    8   84,91   6,98
 110   TARACLIA       VALEA PERJEI      LICEUL TEORETIC "HRISTO BOTEV"                               33   28    5   84,85   6,91
 111   STRĂŞENI       STRĂŞENI          INSTITUŢIA PUBLICĂ LICEUL TEORETIC "ION VATAMANU"            78   66   12   84,62   6,97
-112   CĂUŞENI        FÎRLĂDENI         LICEUL TEORETIC "M.SADOVEANU"                                13   11    2   84,62   6,11
+112   CAUSENI        FÎRLĂDENI         LICEUL TEORETIC "M.SADOVEANU"                                13   11    2   84,62   6,11
 113   CHISINAU       CIOCANA    Liceul Teoretic "Gaudeamus"                                   84   71   13   84,52   6,81
-114   ANENII NOI     MERENI            Instituţie de Învăţămînt Liceul Teoretic "EMIL NICULA"       51   43    8   84,31   6,44
+114   ANENIINOI     MERENI            Instituţie de Învăţămînt Liceul Teoretic "EMIL NICULA"       51   43    8   84,31   6,44
 115   CHISINAU       CHISINAU          Liceul-internat Republican de muzică "Serghei Rahmaninov"    19   16    3   84,21   6,90
 116   CIMIŞLIA       CIMIŞLIA          Instituţia Publică LICEUL TEORETIC "MIHAI EMINESCU"          37   31    6   83,78   6,49
 117   CANTEMIR       CANTEMIR          Instituţia publică Liceul Teoretic "D.Cantemir"              72   60   12   83,33   6,61
 118   CHISINAU       BUIUCANI    Instituţia Publică Liceul Teoretic "Liviu Deleanu"           65   54   11   83,08   6,47
-119   ANENII NOI     ANENII NOI        Instituţie Publică Liceul Teoretic "ALEXANDR PUŞKIN"         35   29    6   82,86   6,34
+119   ANENIINOI     ANENIINOI        Instituţie Publică Liceul Teoretic "ALEXANDR PUŞKIN"         35   29    6   82,86   6,34
 120   CHISINAU       RISCANI    Liceul Teoretic "G.Călinescu"                                 64   53   11   82,81   6,72
 121   CHISINAU       RISCANI    Instituţia Publică Liceul Teoretic "Alexandru Ioan Cuza"      64   53   11   82,81   6,56
-122   UTA GĂGĂUZIA   CEADÎR-LUNGA      LICEUL TEORETIC RAIONAL "M.GUBOGLO"                          29   24    5   82,76   6,64
+122   GAGAUZIA   CEADÎR-LUNGA      LICEUL TEORETIC RAIONAL "M.GUBOGLO"                          29   24    5   82,76   6,64
 123   CHISINAU       DURLEŞTI          Instituţia Publică Liceul Teoretic "Hyperion"                52   43    9   82,69   6,74
 124   CAHUL          CAHUL             Liceul Teoretic "Ioan Vodă"                                 114   94   20   82,46   6,53
 125   ORHEI          ORHEI             LICEUL TEORETIC "ONISIFOR GHIBU"                             68   56   12   82,35   6,67
@@ -128,7 +128,7 @@ const bac2016all = `
 127   SÎNGEREI       SÎNGEREI          LICEUL TEORETIC "OLIMP"                                      77   63   14   81,82   6,85
 128   CHISINAU       RISCANI    Liceul Teoretic "George Meniuc"                               66   54   12   81,82   6,52
 129   EDINET         EDINET            Instituţie Publică Liceul Teoretic "M.Eminescu"              66   54   12   81,82   6,52
-130   UTA GĂGĂUZIA   COMRAT            LICEUL TEORETIC "D.CARACIOBAN" mun. COMRAT                   44   36    8   81,82   6,50
+130   GAGAUZIA   COMRAT            LICEUL TEORETIC "D.CARACIOBAN" mun. COMRAT                   44   36    8   81,82   6,50
 131   CHISINAU       CENTRU    Liceul Teoretic cu profil de arte "Nicolae Sulac"              49   40    9   81,63   6,36
 132   IALOVENI       COSTEŞTI          Liceul Teoretic Costeşti                                     38   31    7   81,58   6,69
 133   CHISINAU       BOTANICA   LICEUL TEORETIC "IULIA HAŞDEU"                                64   52   12   81,25   6,72
@@ -136,7 +136,7 @@ const bac2016all = `
 135   BALTI          BALTI             LICEUL TEORETIC "ŞTEFAN CEL MARE"                            36   29    7   80,56   6,41
 136   CAHUL          CAHUL             Liceul Teoretic "D. Cantemir"                                41   33    8   80,49   6,41
 137   RÎŞCANI        RÎŞCANI           LICEUL TEORETIC "LIVIU DAMIAN"                               46   37    9   80,43   6,22
-138   UTA GĂGĂUZIA   VULCĂNEŞTI        LICEUL TEORETIC Nr.2                                         10    8    2   80,00   6,91
+138   GAGAUZIA   VULCĂNEŞTI        LICEUL TEORETIC Nr.2                                         10    8    2   80,00   6,91
 139   STRĂŞENI       MICLEUŞENI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC "ION CREANGĂ"             15   12    3   80,00   6,13
 140   LEOVA          IARGARA           Liceul Teoretic "Lucian Blaga"                               30   24    6   80,00   6,07
 141   CAHUL          CAHUL             Liceul Teoretic "M.Eminescu"                                 79   63   16   79,75   6,41
@@ -146,9 +146,9 @@ const bac2016all = `
 145   IALOVENI       RĂZENI            Liceul Teoretic "Ion Pelivan"                                29   23    6   79,31   6,72
 146   CHISINAU       BOTANICA   Liceul Teatral Orăşenesc                                      24   19    5   79,17   6,95
 147   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic "Traian"                   71   56   15   78,87   6,35
-148   UTA GĂGĂUZIA   COPCEAC           LICEUL TEORETIC "S.I.BARANOVSKI"                             14   11    3   78,57   7,35
+148   GAGAUZIA   COPCEAC           LICEUL TEORETIC "S.I.BARANOVSKI"                             14   11    3   78,57   7,35
 149   STRĂŞENI       COJUŞNA           INSTITUŢIA PUBLICĂ LICEUL TEORETIC "ALECU RUSSO"             42   33    9   78,57   6,90
-150   CĂUŞENI        CĂUŞENI           LICEUL TEORETIC "ION CREANGĂ"                                28   22    6   78,57   5,68
+150   CAUSENI        CAUSENI           LICEUL TEORETIC "ION CREANGĂ"                                28   22    6   78,57   5,68
 151   FĂLEŞTI        FĂLEŞTI           INSTITUŢIA PUBLICĂ LICEUL TEORETIC "ALEXANDRU PUŞKIN"        37   29    8   78,38   6,42
 152   CHISINAU       BUIUCANI    Liceul Teoretic "Vasile Vasilache"                           60   47   13   78,33   6,56
 153   CHISINAU       CIOCANA    Instituţia Publică Liceul Teoretic "Petru Zadnipru"               96    75   21   78,13   6,47
@@ -172,14 +172,14 @@ const bac2016all = `
 171   LEOVA          LEOVA             Liceul Teoretic "Mihai Eminescu"                                 61    46   15   75,41   6,14
 172   ŞTEFAN VODĂ    ŞTEFAN VODĂ       INSTITUŢIA PUBLICĂ LICEUL TEORETIC "ŞTEFAN VODĂ"                 93    70   23   75,27   6,79
 173   IALOVENI       ZÎMBRENI          Liceul Teoretic Zîmbreni                                         16    12    4   75,00   7,15
-174   UTA GĂGĂUZIA   VULCĂNEŞTI        LICEUL TEORETIC "A. DOLJNENKO"                                   36    27    9   75,00   6,61
+174   GAGAUZIA   VULCĂNEŞTI        LICEUL TEORETIC "A. DOLJNENKO"                                   36    27    9   75,00   6,61
 175   EDINET         ZĂBRICENI         Instituţie Publică Liceul Teoretic "V.Topală"                    20    15    5   75,00   6,38
 176   ORHEI          ORHEI             INSTITUŢIA PUBLICĂ LICEUL TEORETIC "ALECU RUSSO"                 56    42   14   75,00   6,29
 177   UNGHENI        UNGHENI           LICEUL TEORETIC "MIHAI EMINESCU"                                144   108   36   75,00   6,09
 178   BRICENI        BELEAVINŢI        Liceul Teoretic Beleavinţi                                       16    12    4   75,00   5,72
 179   CAHUL          CRIHANA VECHE     Liceul Teoretic "M.Eminescu"                                      4     3    1   75,00   5,50
 180   CIMIŞLIA       CIMIŞLIA          Instituţia Publică LICEUL TEORETIC "ION CREANGĂ"                 55    41   14   74,55   6,58
-181   ANENII NOI     ANENII NOI        Instituţie de Învăţămînt Liceul Teoretic "Andrei Straistă"       93    69   24   74,19   6,06
+181   ANENIINOI     ANENIINOI        Instituţie de Învăţămînt Liceul Teoretic "Andrei Straistă"       93    69   24   74,19   6,06
 182   CHISINAU       CHISINAU          Liceul Teoretic cu Profil Real "Mihai Marinciuc"                 81    60   21   74,07   6,90
 183   CHISINAU       CENTRU    Liceul Teoretic "Academician C.Sibirschi"                          27    20    7   74,07   6,88
 184   IALOVENI       MOLEŞTI           Liceul Teoretic Moleşti                                          23    17    6   73,91   7,37
@@ -193,7 +193,7 @@ const bac2016all = `
 192   CHISINAU       RISCANI    Liceul Teoretic bulgar "Vasil Levski"                             22    16    6   72,73   6,55
 193   TARACLIA       TARACLIA          LICEUL TEORETIC "IVAN VAZOV"                                     77    56   21   72,73   6,52
 194   HÎNCEŞTI       LEUŞENI           Liceul Teoretic "Cezar Radu"                                     22    16    6   72,73   6,44
-195   CĂUŞENI        ZAIM              LICEUL TEORETIC "A.MATEEVICI"                                    40    29   11   72,50   6,72
+195   CAUSENI        ZAIM              LICEUL TEORETIC "A.MATEEVICI"                                    40    29   11   72,50   6,72
 196   CRIULENI       HÎRTOPUL MIC      Liceul Teoretic HÎRTOPUL MIC                                     18    13    5   72,22   6,40
 197   GLODENI        GLODENI           LICEUL TEORETIC "LEV TOLSTOI"                                    36    26   10   72,22   6,16
 198   BALTI          BALTI             LICEUL TEORETIC "A.PUŞKIN"                                       46    33   13   71,74   6,30
@@ -210,25 +210,25 @@ const bac2016all = `
 209   SOROCA         SOROCA            Instituţia Publică Liceul Teoretic "Ion Creangă"                    60   42   18   70,00   5,96
 210   DONDUŞENI      DONDUŞENI         Liceul Teoretic "A.Mateevici"                                       39   27   12   69,23   6,53
 211   TELENEŞTI      SĂRĂTENII VECHI    LICEUL TEORETIC “V.ANESTIADE”                                       26   18    8   69,23   6,42
-212   CĂUŞENI        CĂUŞENI           LICEUL TEORETIC "A.PUŞKIN"                                          13    9    4   69,23   6,33
+212   CAUSENI        CAUSENI           LICEUL TEORETIC "A.PUŞKIN"                                          13    9    4   69,23   6,33
 213   DUBĂSARI       DOROŢCAIA         Liceul Teoretic Doroţcaia                                           29   20    9   68,97   6,84
 214   STRĂŞENI       VORNICENI         INSTITUŢIA PUBLICĂ LICEUL TEORETIC "ION INCULEŢ"                    29   20    9   68,97   6,51
 215   SOROCA         SOROCA            Instituţia Publică Liceul Teoretic "Alexandru Puşkin"               29   20    9   68,97   6,42
-216   ANENII NOI     BULBOACA          Instituţie Publică Liceul Teoretic "Anton Guzun"                    29   20    9   68,97   6,20
+216   ANENIINOI     BULBOACA          Instituţie Publică Liceul Teoretic "Anton Guzun"                    29   20    9   68,97   6,20
 217   STRĂŞENI       LOZOVA            INSTITUŢIA PUBLICĂ LICEUL TEORETIC "MITROPOLIT NESTOR VORNICESCU"   16   11    5   68,75   7,39
 218   FLOREŞTI       FLOREŞTI          Liceul Teoretic "M. Eminescu"                                       16   11    5   68,75   6,64
 219   HÎNCEŞTI       HÎNCEŞTI          Liceul Teoretic "M. Eminescu"                                       73   50   23   68,49   6,56
 220   IALOVENI       RUSEŞTII NOI      Liceul Teoretic Ruseştii Noi                                        19   13    6   68,42   6,67
-221   ANENII NOI     HÎRBOVĂŢ          Instituţie de Învăţămînt Liceul Teoretic "Ion Creangă"              19   13    6   68,42   6,23
+221   ANENIINOI     HÎRBOVĂŢ          Instituţie de Învăţămînt Liceul Teoretic "Ion Creangă"              19   13    6   68,42   6,23
 222   CAHUL          CAHUL             Liceul Teoretic "I.Creangă"                                         79   54   25   68,35   6,39
-223   CĂUŞENI        TARACLIA          LICEUL TEORETIC "ŞTEFAN CEL MARE ŞI SFÎNT"                          44   30   14   68,18   6,18
+223   CAUSENI        TARACLIA          LICEUL TEORETIC "ŞTEFAN CEL MARE ŞI SFÎNT"                          44   30   14   68,18   6,18
 224   CHISINAU       CENTRU    Instituţia Publică Liceul Teoretic "Minerva"                          69   47   22   68,12   6,48
 225   CHISINAU       SÎNGERA           Instituţia Publică Liceul Teoretic "Alexandru cel Bun"              50   34   16   68,00   6,22
 226   CHISINAU       RISCANI    Liceul Teoretic "Matei Basarab"                                      28   19    9   67,86   6,55
 227   CHISINAU       CIOCANA    Instituţia Publică Liceul Teoretic cu Profil Sportiv nr. 2           34   23   11   67,65   6,15
 228   RÎŞCANI        VĂRATIC           LICEUL TEORETIC VĂRATIC                                             34   23   11   67,65   6,02
 229   SÎNGEREI       CUBOLTA           LICEUL TEORETIC "PAN HALIPPA"                                       37   25   12   67,57   6,51
-230   CĂUŞENI        SĂLCUŢA           LICEUL TEORETIC "M.MANOLE"                                          37   25   12   67,57   6,25
+230   CAUSENI        SĂLCUŢA           LICEUL TEORETIC "M.MANOLE"                                          37   25   12   67,57   6,25
 231   SOROCA         SOROCA            Instituţia Publică Liceul Teoretic "Petru Rareş"                    49   33   16   67,35   6,14
 232   FLOREŞTI       FLOREŞTI          Liceul Teoretic "M. Costin"                                         49   33   16   67,35   6,04
 233   DROCHIA        POPEŞTII DE SUS   Instituţia Publică Liceul Teoretic "Ion Creangă"                    33   22   11   66,67   6,75
@@ -250,10 +250,10 @@ const bac2016all = `
 249   BASARABEASCA   BAŞCALIA          INSTITUŢIA PUBLICĂ LICEUL TEORETIC "MARCU TARLEV"                   11    7    4   63,64   6,96
 250   BRICENI        CORJEUŢI          Liceul Teoretic Corjeuţi                                            22   14    8   63,64   6,57
 251   CAHUL          COLIBAŞI          Liceul Teoretic "V. Alecsandri"                                     63   40   23   63,49   6,31
-252   CĂUŞENI        CÎRNĂŢENI         LICEUL TEORETIC "Gr.GRIGORIU"                                       30   19   11   63,33   5,84
+252   CAUSENI        CÎRNĂŢENI         LICEUL TEORETIC "Gr.GRIGORIU"                                       30   19   11   63,33   5,84
 253   UNGHENI        SCULENI           LICEUL TEORETIC SCULENI                                             57   36   21   63,16   6,02
-254   CĂUŞENI        CĂINARI           LICEUL TEORETIC "A.MATEEVICI"                                       27   17   10   62,96   6,22
-255   UTA GĂGĂUZIA   CONGAZ            LICEUL TEORETIC MOLDO-TURC "S.DEMIREL" s. CONGAZ                    35   22   13   62,86   6,68
+254   CAUSENI        CĂINARI           LICEUL TEORETIC "A.MATEEVICI"                                       27   17   10   62,96   6,22
+255   GAGAUZIA   CONGAZ            LICEUL TEORETIC MOLDO-TURC "S.DEMIREL" s. CONGAZ                    35   22   13   62,86   6,68
 256   STRĂŞENI       ROMĂNEŞTI         INSTITUŢIA PUBLICĂ LICEUL TEORETIC ROMĂNEŞTI                        16   10    6   62,50   6,83
 257   CIMIŞLIA       GURA GALBENEI     Instituţia Publică LICEUL TEORETIC "HYPERION"                         24   15    9   62,50   6,78
 258   SÎNGEREI       BIRUINŢA          LICEUL TEORETIC "LUCEAFĂRUL"                                          24   15    9   62,50   6,75
@@ -269,7 +269,7 @@ const bac2016all = `
 268   NISPORENI      NISPORENI         Instituţia Publică Liceul Teoretic "Mircea Eliade"                    79   48   31   60,76   5,86
 269   CHISINAU       RISCANI    Liceul Teoretic "Kiril şi Metodii"                                     38   23   15   60,53   6,46
 270   ŞTEFAN VODĂ    OLĂNEŞTI          INSTITUŢIA PUBLICĂ LICEUL TEORETIC "BOGDAN PETRICEICU HAŞDEU"         48   29   19   60,42   6,54
-271   UTA GĂGĂUZIA   CIŞMICHIOI        LICEUL TEORETIC CIŞMICHIOI                                            15    9    6   60,00   7,24
+271   GAGAUZIA   CIŞMICHIOI        LICEUL TEORETIC CIŞMICHIOI                                            15    9    6   60,00   7,24
 272   BASARABEASCA   BASARABEASCA      INSTITUŢIA PUBLICĂ LICEUL TEORETIC "NICOLAI GOGOL"                    10    6    4   60,00   6,47
 273   SÎNGEREI       SÎNGEREII NOI     LICEUL TEORETIC "ALECU RUSSO"                                         35   21   14   60,00   6,15
 274   ŞOLDĂNEŞTI     OLIŞCANI          Instituţia Publică Liceul teoretic Olişcani                            5    3    2   60,00   5,42
@@ -308,11 +308,11 @@ const bac2016all = `
 307   CHISINAU       CHISINAU          CENTRU EXTERNAT 2                                                    167   89   78   53,29   5,80
 308   BRICENI        TABANI            Liceul Teoretic Tabani                                                17    9    8   52,94   6,44
 309   HÎNCEŞTI       CRASNOARMEISCOE    Liceul Teoretic "Dimitrie Cantemir"                          21    11    10   52,38   6,70
-310   UTA GĂGĂUZIA   COMRAT            LICEUL TEORETIC "N.TRETIACOV"                              21    11    10   52,38   6,35
+310   GAGAUZIA   COMRAT            LICEUL TEORETIC "N.TRETIACOV"                              21    11    10   52,38   6,35
 311   REZINA         REZINA            Instituţia Publică Liceul Teoretic "Alexandr Puşkin"       25    13    12   52,00   6,29
 312   RÎŞCANI        CORLĂTENI         LICEUL TEORETIC "VICTOR DUMBRĂVEANU"                       31    16    15   51,61   6,44
 313   OCNIŢA         OTACI             INSTITUŢIA PUBLICĂ LICEUL TEORETIC "MIHAI EMINESCU"        41    21    20   51,22   6,11
-314   UTA GĂGĂUZIA   COPCEAC           LICEUL TEORETIC "BORIS IANACOGLO"                          12     6     6   50,00   6,57
+314   GAGAUZIA   COPCEAC           LICEUL TEORETIC "BORIS IANACOGLO"                          12     6     6   50,00   6,57
 315   HÎNCEŞTI       CIUCIULENI        Liceul Teoretic "A. Donici"                                30    15    15   50,00   6,27
 316   CHISINAU       BOTANICA   Instituţia Publică Liceul Teoretic "Tudor Vladimirescu"    134    67    67   50,00   6,16
 317   BASARABEASCA   BASARABEASCA      INSTITUŢIA PUBLICĂ LICEUL TEORETIC "ALEXANDR PUŞKIN"       23    11    12   47,83   5,80
@@ -341,21 +341,21 @@ const bac2016all = `
 340   BRICENI        GRIMĂNCĂUŢI       Liceul Teoretic Grimăncăuţi                                32    12    20   37,50   6,27
 341   CHISINAU       CHISINAU          CENTRU EXTERNAT 3                                          78    29    49   37,18   6,03
 342   OCNIŢA         RUJNIŢA           INSTITUŢIA PUBLICĂ LICEUL TEORETIC RUJNIŢA                 27    10    17   37,04   6,50
-343   UTA GĂGĂUZIA   COMRAT            LICEUL INTERNAT SPORTIV REGIONAL                           11     4     7   36,36   5,90
+343   GAGAUZIA   COMRAT            LICEUL INTERNAT SPORTIV REGIONAL                           11     4     7   36,36   5,90
 344   CHISINAU       BOTANICA   Liceul Teoretic "Mircea cel Bătrîn"                         22     8    14   36,36   5,16
 345   EDINET         CUPCINI           Instituţie Publică Liceul Teoretic "M.Sadoveanu"           11     4     7   36,36   5,00
 346   STRĂŞENI       STRĂŞENI          INSTITUŢIA PUBLICĂ LICEUL TEORETIC "NICOLAI NEKRASOV"      60    21    39   35,00   5,96
-347   UTA GĂGĂUZIA   CIOC-MAIDAN       LICEUL TEORETIC FIODOR IANIOGLO                             3     1     2   33,33   5,80
-348   UTA GĂGĂUZIA   TOMAI             LICEUL TEORETIC TOMAI                                       3     1     2   33,33   5,80
+347   GAGAUZIA   CIOC-MAIDAN       LICEUL TEORETIC FIODOR IANIOGLO                             3     1     2   33,33   5,80
+348   GAGAUZIA   TOMAI             LICEUL TEORETIC TOMAI                                       3     1     2   33,33   5,80
 349   BASARABEASCA   CARABETOVCA       INSTITUŢIA PUBLICĂ LICEUL TEORETIC "ŞTEFAN CEL MARE"        3     1     2   33,33   5,25
 350   EDINET         FETEŞTI           Instituţie Publică Liceul Teoretic Feteşti                  6     2     4   33,33   5,25
 351   RÎŞCANI        RECEA             LICEUL TEORETIC RECEA                                       6     2     4   33,33   5,00
-352   UTA GĂGĂUZIA   COMRAT            LICEUL TEORETIC "D.MAVRODI"                                 3     1     2   33,33   5,00
+352   GAGAUZIA   COMRAT            LICEUL TEORETIC "D.MAVRODI"                                 3     1     2   33,33   5,00
 353   GLODENI        STURZOVCA         LICEUL TEORETIC STURZOVCA                                  26     8    18   30,77   5,70
 354   CHISINAU       DURLEŞTI          Liceul Teoretic "Durleşti"                                 13     4     9   30,77   5,00
 355   IALOVENI       ŢIPALA            Liceul Teoretic Ţîpala                                      7     2     5   28,57   5,38
 356   ŞTEFAN VODĂ    CROCMAZ           LICEUL TEORETIC "ECATERINA MALCOCI"                        44    12    32   27,27   6,40
-357   UTA GĂGĂUZIA   CONGAZ            LICEUL TEORETIC "TODUR ZANET"                               8     2     6   25,00   6,10
+357   GAGAUZIA   CONGAZ            LICEUL TEORETIC "TODUR ZANET"                               8     2     6   25,00   6,10
 358   FLOREŞTI       FRUMUŞICA         Liceul Teoretic Frumuşica                                  24     6    18   25,00   5,96
 359   LEOVA          BOROGANI          Liceul Teoretic "Grigore Vieru"                             4     1     3   25,00   5,50
 360   EDINET         GORDINEŞTI        Instituţie Publică Liceul Teoretic Gordineşti              12     3     9   25,00   5,25
@@ -364,7 +364,7 @@ const bac2016all = `
 363   BRICENI        TREBISĂUŢI        Liceul Teoretic Trebisăuţi                                          19    4    15   21,05   6,56
 364   HÎNCEŞTI       LĂPUŞNA           Liceul Teoretic Lăpuşna                                             11    2     9   18,18   5,50
 365   CHISINAU       BUIUCANI    ȘCOALĂ PROFESIONALĂ NR.2                                            12    2    10   16,67   6,00
-366   UTA GĂGĂUZIA   CHIRSOVA          Liceul Teoretic "M.I. TUZLOV"                                        6    1     5   16,67   5,60
+366   GAGAUZIA   CHIRSOVA          Liceul Teoretic "M.I. TUZLOV"                                        6    1     5   16,67   5,60
 367   CHISINAU       CENTRU    Liceul teoretic cu profil tehnologic pentru copii cu vederea slabă     7    1     6   14,29   5,00
 368   OCNIŢA         OCNIŢA            INSTITUŢIA PUBLICĂ LICEUL TEORETIC "CONSTANTIN STAMATI"              7    1     6   14,29   5,00
 369   CHISINAU       CHISINAU          CENTRU EXTERNAT 1                                                  182   21   161   11,54   5,98
@@ -381,9 +381,9 @@ const bac2016all = `
 380   HÎNCEŞTI       HÎNCEŞTI          Liceul Teoretic "M. Lomonosov"                                       2    0     2    0,00   0
 381   LEOVA          TOMAI             Liceul Teoretic "Mihai Viteazu"                                      1    0     1    0,00   0
 382   SÎNGEREI       SÎNGEREI          LICEUL TEORETIC "DIMITRIE CANTEMIR"                                  3    0     3    0,00   0
-383   UTA GĂGĂUZIA   BEŞALMA           LICEUL TEORETIC M. CHIOSEA                                           2    0     2    0,00   0
-384   UTA GĂGĂUZIA   BEŞGHIOZ          LICEUL TEORETIC BEŞGHIOZ                                             2    0     2    0,00   0
-385   UTA GĂGĂUZIA   ETULIA            Liceul Teoretic "S.P.Economov"                                       2    0     2    0,00   0
+383   GAGAUZIA   BEŞALMA           LICEUL TEORETIC M. CHIOSEA                                           2    0     2    0,00   0
+384   GAGAUZIA   BEŞGHIOZ          LICEUL TEORETIC BEŞGHIOZ                                             2    0     2    0,00   0
+385   GAGAUZIA   ETULIA            Liceul Teoretic "S.P.Economov"                                       2    0     2    0,00   0
 `;
 
 module.exports = bac2016all;
