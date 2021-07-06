@@ -1,0 +1,142 @@
+const searchArr = [
+  {
+    district: 'chisinau',
+    city: 'chisinau',
+    name: 'asm',
+    search: 'academiei',
+  },
+  {
+    district: 'chisinau',
+    city: 'botanica',
+    name: 'DCantemir',
+    search: 'dimitrie cantemir|d. cantemir',
+  },
+  {
+    district: 'chisinau',
+    city: 'botanica',
+    name: 'MGrecu',
+    search: 'grecu',
+  },
+  {
+    district: 'chisinau',
+    city: 'buicani',
+    name: 'ACantemir',
+    search: 'antioh cantemir|',
+  },
+  {
+    district: 'chisinau',
+    city: 'buiucani',
+    name: 'prometeu',
+    search: 'prometeu',
+  },
+  {
+    district: 'chisinau',
+    city: 'buiucani',
+    name: 'MEliade',
+    search: 'eliade',
+  },
+  {
+    district: 'bender',
+    city: 'bender',
+    name: 'AlexanruCelBun',
+    search: 'alexandru cel bun',
+  },
+  {
+    district: 'ribnita',
+    city: 'ribnita',
+    name: 'evrika',
+    search: 'evrika',
+  },
+  {
+    district: 'chisinau',
+    city: 'botanica',
+    name: 'MEminescu',
+    search: 'eminescu',
+  },
+  {
+    district: 'tiraspol',
+    city: 'tiraspol',
+    name: 'LBlaga',
+    search: 'blaga',
+  },
+  {
+    district: 'chisinau',
+    city: 'buiucani',
+    name: 'ElimulNou',
+    search: 'elimul',
+  },
+  {
+    district: 'chisinau',
+    city: 'riscani',
+    name: 'ARusso',
+    search: 'russo',
+  },
+  {
+    district: 'chisinau',
+    city: 'buiucani',
+    name: 'evrica',
+    search: 'evrica',
+  },
+  {
+    district: 'chisinau',
+    city: 'riscani',
+    name: 'LimbiModerne',
+    search: 'liceul de limbi moderne şi management',
+  },
+  {
+    district: 'chisinau',
+    city: 'buiucani',
+    name: 'columna',
+    search: 'columna',
+  },
+  {
+    district: 'ialoveni',
+    city: 'bardar',
+    name: 'ADavid',
+    search: 'aurel david',
+  },
+  {
+    district: 'chisinau',
+    city: 'stauceni',
+    name: 'DVoda',
+    search: 'dragoş vodă',
+  },
+  {
+    district: 'edinet',
+    city: 'edinet',
+    name: 'SeminarDeFete',
+    search: 'seminarul',
+  },
+  {
+    district: 'chisinau',
+    city: 'buiucani',
+    name: 'NVGogol',
+    search: 'gogol',
+  },
+  {
+    district: 'chisinau',
+    city: 'buiucani',
+    name: 'APuskin',
+    search: 'puşkin',
+  },
+  {
+    district: 'chisinau',
+    city: 'riscani',
+    name: 'ICreanga',
+    search: 'creangă',
+  },
+  {
+    district: 'chisinau',
+    city: 'buiucani',
+    name: 'SpiruHaret',
+    search: 'haret',
+  },
+  {
+    district: 'balti',
+    city: 'balti',
+    name: 'MEminescu',
+    search: 'eminescu',
+  },
+];
+
+module.exports = searchArr;
