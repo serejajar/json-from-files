@@ -895,7 +895,19 @@ const searchArr = [
     district: 'basarabeasca',
     city: 'basarabeasca',
     name: 'MBasarab',
-    search: 'basarab'
+    search: 'matei basarab'
+  },
+  {
+    district: 'basarabeasca',
+    city: 'basarabeasca',
+    name: 'NVGogol',
+    search: 'gogol'
+  },
+  {
+    district: 'basarabeasca',
+    city: 'basarabeasca',
+    name: 'APuskin',
+    search: 'puskin'
   },
   {
     district: 'cahul',
@@ -1854,8 +1866,8 @@ const searchArr = [
   {
     district: 'nisporeni',
     city: 'nisporeni',
-    name: 'institutia publica liceul teoretic mircea eliade',
-    search: 'institutia publica liceul teoretic mircea eliade'
+    name: 'MEliade',
+    search: 'eliade'
   },
   {
     district: 'glodeni',
@@ -2036,12 +2048,6 @@ const searchArr = [
     city: 'suruceni',
     name: 'ISuruceanu',
     search: 'suruceanu'
-  },
-  {
-    district: 'nisporeni',
-    city: 'nisporeni',
-    name: 'MEliade',
-    search: 'eliade'
   },
   {
     district: 'briceni',
@@ -2506,34 +2512,10 @@ const searchArr = [
     search: 'celenghir'
   },
   {
-    district: 'ialoveni',
-    city: 'rusestiinoi',
-    name: 'liceul',
-    search: ''
-  },
-  {
-    district: 'rezina',
-    city: 'cuizauca',
-    name: 'ICreanga',
-    search: 'creanga'
-  },
-  {
     district: 'taraclia',
     city: 'corten',
     name: 'PHilendarschi',
     search: 'hilendarschi'
-  },
-  {
-    district: 'briceni',
-    city: 'tabani',
-    name: 'liceul',
-    search: ''
-  },
-  {
-    district: 'soldanesti',
-    city: 'raspopeni',
-    name: 'liceul',
-    search: ''
   },
   {
     district: 'nisporeni',
@@ -2582,7 +2564,14 @@ const searchArr = [
     city: 'botanica',
     name: 'MirceaCelBatran',
     search: 'mircea cel batran'
-  }
+  },
+  {
+    district: 'gagauzia',
+    city: 'congaz',
+    name: 'TZanet',
+    search: 'zanet'
+  },
+
 ];
 
 module.exports = searchArr;

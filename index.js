@@ -1,8 +1,10 @@
+const path = require('path');
+const fs = require('fs');
+
 const searchArr = require('./src/searchArr');
 const checkData = require('./src/checkData');
 const replaceRoDiacritics = require('./src/replaceRoDiacritics');
-
-let data = require('./data');
+let data = require('./bac');
 
 console.log(`Total: ${data.length} items`);
 
@@ -46,21 +48,16 @@ const files = searchArr.map(({ district, city, name, search }) => {
   return fileData;
 });
 
-// console.log(JSON.stringify(files[files.length-1], null, 2));
-
-files.forEach((item) => {
-  if (item.bac.length < 1) {
-  // if (item.address.city === 'congaz') {
-    console.log(JSON.stringify(item, null, 2));
+files.forEach((file) => {
+  if (
+    file.bac.length > 6
+    || file.bac.length === 0
+  ) {
+    console.log('Wrong data!');
+    console.log(JSON.stringify(file, null, 2));
+  } else {
+    const filePath = path.join(__dirname, `./schools/${file.id}.json`);
+    console.log(filePath);
+    fs.writeFileSync(filePath, JSON.stringify(file, null, 2))
   }
 });
-
-// console.log(data[0]);
-// console.log(data.map(({ text, districtStr, cityStr, nameStr }) => ({
-//   // text,
-//   district: districtStr,
-//   city: cityStr,
-//   name: nameStr,
-//   search: nameStr,
-// })));
-console.log(`Remains: ${data.length} items`);
