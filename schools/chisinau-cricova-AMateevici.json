@@ -33,14 +33,14 @@
     },
     {
       "year": "2018",
-      "text": "184   CHISINAU       CRICOVA          Liceul Teoretic \"\"Alexei Mateevici\"\"                              15   14   1   93.33   6.25",
+      "text": "184   CHISINAU       CRICOVA          Liceul Teoretic \"Alexei Mateevici\"                              15   14   1   93.33   6.25",
       "candidats": 15,
       "rejectedCandidats": 1,
       "mediumNote": 6.25
     },
     {
       "year": "2019",
-      "text": "59   CHISINAU       CRICOVA          Instituţia Publică Liceul Teoretic \"\"Alexei Mateevici\"\"             25    25   0   100.00   7.19",
+      "text": "59   CHISINAU       CRICOVA          Instituţia Publică Liceul Teoretic \"Alexei Mateevici\"             25    25   0   100.00   7.19",
       "candidats": 25,
       "rejectedCandidats": 0,
       "mediumNote": 7.19

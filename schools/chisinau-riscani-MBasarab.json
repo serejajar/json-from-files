@@ -33,21 +33,21 @@
     },
     {
       "year": "2017",
-      "text": "246   CHISINAU       RISCANI   Liceul Teoretic \"\"Matei Basarab\"\"                                      16   13    3   81,25   7,25",
+      "text": "246   CHISINAU       RISCANI   Liceul Teoretic \"Matei Basarab\"                                      16   13    3   81,25   7,25",
       "candidats": 16,
       "rejectedCandidats": 3,
       "mediumNote": 7.25
     },
     {
       "year": "2018",
-      "text": "22   CHISINAU         RISCANI    Liceul Teoretic \"\"Matei Basarab\"\"                                               24        24        0       100.00    7.43",
+      "text": "22   CHISINAU         RISCANI    Liceul Teoretic \"Matei Basarab\"                                               24        24        0       100.00    7.43",
       "candidats": 24,
       "rejectedCandidats": 0,
       "mediumNote": 7.43
     },
     {
       "year": "2019",
-      "text": "206   CHISINAU       RISCANI    Liceul Teoretic \"\"Matei Basarab\"\"                                               26        24   2   92.31   6.59",
+      "text": "206   CHISINAU       RISCANI    Liceul Teoretic \"Matei Basarab\"                                               26        24   2   92.31   6.59",
       "candidats": 26,
       "rejectedCandidats": 2,
       "mediumNote": 6.59

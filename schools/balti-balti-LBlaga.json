@@ -33,21 +33,21 @@
     },
     {
       "year": "2017",
-      "text": "71   BALTI          BALTI           LICEUL TEORETIC \"\"L.BLAGA\"\"                                      47    47   0   100,00   6,27",
+      "text": "71   BALTI          BALTI           LICEUL TEORETIC \"L.BLAGA\"                                      47    47   0   100,00   6,27",
       "candidats": 47,
       "rejectedCandidats": 0,
       "mediumNote": 6.27
     },
     {
       "year": "2018",
-      "text": "117   BALTI          BALTI            LICEUL TEORETIC \"\"L.BLAGA\"\"                                       51         50   1   98.04    6.73",
+      "text": "117   BALTI          BALTI            LICEUL TEORETIC \"L.BLAGA\"                                       51         50   1   98.04    6.73",
       "candidats": 51,
       "rejectedCandidats": 1,
       "mediumNote": 6.73
     },
     {
       "year": "2019",
-      "text": "78   BALTI          BALTI            LICEUL TEORETIC \"\"L.BLAGA\"\"                                       39         39    0   100.00   7.00",
+      "text": "78   BALTI          BALTI            LICEUL TEORETIC \"L.BLAGA\"                                       39         39    0   100.00   7.00",
       "candidats": 39,
       "rejectedCandidats": 0,
       "mediumNote": 7

@@ -33,14 +33,14 @@
     },
     {
       "year": "2017",
-      "text": "285   BALTI          BALTI           LICEUL TEORETIC \"\"M.GORKI\"\"                                  27   17   10   62,96   6,48",
+      "text": "285   BALTI          BALTI           LICEUL TEORETIC \"M.GORKI\"                                  27   17   10   62,96   6,48",
       "candidats": 27,
       "rejectedCandidats": 10,
       "mediumNote": 6.48
     },
     {
       "year": "2019",
-      "text": "259   BALTI          BALTI            LICEUL TEORETIC \"\"M.GORKI\"\"                                    30    25    5   83.33   6.42",
+      "text": "259   BALTI          BALTI            LICEUL TEORETIC \"M.GORKI\"                                    30    25    5   83.33   6.42",
       "candidats": 30,
       "rejectedCandidats": 5,
       "mediumNote": 6.42

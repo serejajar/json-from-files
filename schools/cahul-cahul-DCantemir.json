@@ -33,21 +33,21 @@
     },
     {
       "year": "2017",
-      "text": "101   CAHUL          CAHUL           Liceul Teoretic \"\"D. Cantemir\"\"                                 32    31   1   96,88    6,59",
+      "text": "101   CAHUL          CAHUL           Liceul Teoretic \"D. Cantemir\"                                 32    31   1   96,88    6,59",
       "candidats": 32,
       "rejectedCandidats": 1,
       "mediumNote": 6.59
     },
     {
       "year": "2018",
-      "text": "230   CAHUL          CAHUL            Instituţia Publică Liceul Teoretic \"\"D. Cantemir\"\"               27   24    3   88.89   6.40",
+      "text": "230   CAHUL          CAHUL            Instituţia Publică Liceul Teoretic \"D. Cantemir\"               27   24    3   88.89   6.40",
       "candidats": 27,
       "rejectedCandidats": 3,
       "mediumNote": 6.4
     },
     {
       "year": "2019",
-      "text": "102   CAHUL          CAHUL            Instituţia Publică Liceul Teoretic \"\"D. Cantemir\"\"                27         27    0   100.00   6.77",
+      "text": "102   CAHUL          CAHUL            Instituţia Publică Liceul Teoretic \"D. Cantemir\"                27         27    0   100.00   6.77",
       "candidats": 27,
       "rejectedCandidats": 0,
       "mediumNote": 6.77

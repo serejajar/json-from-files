@@ -33,21 +33,21 @@
     },
     {
       "year": "2017",
-      "text": "97   CHISINAU       BOTANICA   LICEUL TEORETIC \"\"DIMITRIE CANTEMIR\"\"                        66    64   2   96,97    7,03",
+      "text": "97   CHISINAU       BOTANICA   LICEUL TEORETIC \"DIMITRIE CANTEMIR\"                        66    64   2   96,97    7,03",
       "candidats": 66,
       "rejectedCandidats": 2,
       "mediumNote": 7.03
     },
     {
       "year": "2018",
-      "text": "26   CHISINAU         BOTANICA   LICEUL TEORETIC \"\"DIMITRIE CANTEMIR\"\"                                           63        63        0       100.00    7.41",
+      "text": "26   CHISINAU         BOTANICA   LICEUL TEORETIC \"DIMITRIE CANTEMIR\"                                           63        63        0       100.00    7.41",
       "candidats": 63,
       "rejectedCandidats": 0,
       "mediumNote": 7.41
     },
     {
       "year": "2019",
-      "text": "25   CHISINAU         BOTANICA   INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"\"DIMITRIE CANTEMIR\"\"                        45        45        0       100.00    7.59",
+      "text": "25   CHISINAU         BOTANICA   INSTITUŢIA PUBLICĂ LICEUL TEORETIC \"DIMITRIE CANTEMIR\"                        45        45        0       100.00    7.59",
       "candidats": 45,
       "rejectedCandidats": 0,
       "mediumNote": 7.59

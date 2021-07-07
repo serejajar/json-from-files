@@ -33,21 +33,21 @@
     },
     {
       "year": "2017",
-      "text": "111   CHISINAU       BOTANICA   LICEUL TEORETIC \"\"V.ALECSANDRI\"\"                            79    76   3   96,20    6,47",
+      "text": "111   CHISINAU       BOTANICA   LICEUL TEORETIC \"V.ALECSANDRI\"                            79    76   3   96,20    6,47",
       "candidats": 79,
       "rejectedCandidats": 3,
       "mediumNote": 6.47
     },
     {
       "year": "2018",
-      "text": "258   CHISINAU       BOTANICA   LICEUL TEORETIC \"\"V.ALECSANDRI\"\"                               128   106   22   82.81   6.58",
+      "text": "258   CHISINAU       BOTANICA   LICEUL TEORETIC \"V.ALECSANDRI\"                               128   106   22   82.81   6.58",
       "candidats": 128,
       "rejectedCandidats": 22,
       "mediumNote": 6.58
     },
     {
       "year": "2019",
-      "text": "178   CHISINAU       BOTANICA   LICEUL TEORETIC \"\"V.ALECSANDRI\"\"                                 62   59   3   95.16   6.66",
+      "text": "178   CHISINAU       BOTANICA   LICEUL TEORETIC \"V.ALECSANDRI\"                                 62   59   3   95.16   6.66",
       "candidats": 62,
       "rejectedCandidats": 3,
       "mediumNote": 6.66

@@ -1944,7 +1944,7 @@ const searchArr = [
   {
     district: 'falesti',
     city: 'calinesti',
-    name: 'GhVrabie”',
+    name: 'GhVrabie',
     search: 'vrabie'
   },
   {

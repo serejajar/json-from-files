@@ -33,21 +33,21 @@
     },
     {
       "year": "2017",
-      "text": "114   CHISINAU       BOTANICA   LICEUL TEORETIC \"\"IULIA HAŞDEU\"\"                            49    47   2   95,92    6,91",
+      "text": "114   CHISINAU       BOTANICA   LICEUL TEORETIC \"IULIA HAŞDEU\"                            49    47   2   95,92    6,91",
       "candidats": 49,
       "rejectedCandidats": 2,
       "mediumNote": 6.91
     },
     {
       "year": "2018",
-      "text": "65   CHISINAU       BOTANICA   LICEUL TEORETIC \"\"IULIA HAŞDEU\"\"                                    55   55   0   100.00   6.88",
+      "text": "65   CHISINAU       BOTANICA   LICEUL TEORETIC \"IULIA HAŞDEU\"                                    55   55   0   100.00   6.88",
       "candidats": 55,
       "rejectedCandidats": 0,
       "mediumNote": 6.88
     },
     {
       "year": "2019",
-      "text": "13   CHISINAU         BOTANICA   LICEUL TEORETIC \"\"IULIA HAŞDEU\"\"                                                44        44        0       100.00    7.94",
+      "text": "13   CHISINAU         BOTANICA   LICEUL TEORETIC \"IULIA HAŞDEU\"                                                44        44        0       100.00    7.94",
       "candidats": 44,
       "rejectedCandidats": 0,
       "mediumNote": 7.94
