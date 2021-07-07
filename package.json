@@ -1,5 +1,5 @@
 {
-  "name": "parse-pdf",
+  "name": "json-from-files",
   "version": "1.0.0",
   "description": "Simple PDF parser by nodejs",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/serejajar/parse-pdf.git"
+    "url": "git+https://github.com/serejajar/json-from-files.git"
   },
   "author": "Sergey Jar",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/serejajar/parse-pdf/issues"
+    "url": "https://github.com/serejajar/json-from-files/issues"
   },
-  "homepage": "https://github.com/serejajar/parse-pdf#readme",
+  "homepage": "https://github.com/serejajar/json-from-files#readme",
   "devDependencies": {
     "eslint": "^7.29.0"
   }
