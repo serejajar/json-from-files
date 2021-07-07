@@ -1,3 +1,5 @@
+const replaceRoDiacritics = require('./replaceRoDiacritics');
+
 function parseText(text, year) {
   const strings = text
     .trim()
@@ -42,9 +44,9 @@ function parseText(text, year) {
       year,
       text: str,
       num,
-      districtStr: districtStr.toLowerCase(),
-      cityStr: cityStr.toLowerCase(),
-      nameStr,
+      districtStr: replaceRoDiacritics(districtStr, true),
+      cityStr: replaceRoDiacritics(cityStr, true),
+      nameStr: replaceRoDiacritics(nameStr),
       candidats: +candidats,
       rejectedCandidats: +rejectedCandidats,
       mediumNote: +mediumNote.replace(',', '.'),

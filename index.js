@@ -1,5 +1,7 @@
 const searchArr = require('./src/searchArr');
 const checkData = require('./src/checkData');
+const replaceRoDiacritics = require('./src/replaceRoDiacritics');
+
 let data = require('./data');
 
 console.log(`Total: ${data.length} items`);
@@ -26,7 +28,8 @@ const files = searchArr.map(({ district, city, name, search }) => {
       cityStr,
     } = item;
 
-    const isSchool = text.search(regexp) !== -1;
+    const isSchool = replaceRoDiacritics(text).search(regexp) !== -1;
+
 
     if (
       isSchool
@@ -43,6 +46,21 @@ const files = searchArr.map(({ district, city, name, search }) => {
   return fileData;
 });
 
-console.log(JSON.stringify(files[files.length-1], null, 2));
-console.log(data[0]);
+// console.log(JSON.stringify(files[files.length-1], null, 2));
+
+files.forEach((item) => {
+  if (item.bac.length < 1) {
+  // if (item.address.city === 'congaz') {
+    console.log(JSON.stringify(item, null, 2));
+  }
+});
+
+// console.log(data[0]);
+// console.log(data.map(({ text, districtStr, cityStr, nameStr }) => ({
+//   // text,
+//   district: districtStr,
+//   city: cityStr,
+//   name: nameStr,
+//   search: nameStr,
+// })));
 console.log(`Remains: ${data.length} items`);

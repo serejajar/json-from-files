@@ -95,7 +95,7 @@ const bac2019 = `
 94   GAGAUZIA   AVDARMA          LICEUL TEORETIC "D.CELENGHIR" AVDARMA                             19         19    0   100.00   6.86
 95   GAGAUZIA   CHIOSELIA RUSĂ    LICEUL TEORETIC ""GR.VIERU"" s. CHIOSELIA RUSĂ                      15         15    0   100.00   6.85
 96   CRIULENI       CRUGLIC          Liceul Teoretic CRUGLIC                                           20         20    0   100.00   6.84
-97   GAGAUZIA   CEADÎR-LUNGA    FILIALA CEADÎR-LUNGA A INSTITUŢIEI PRIVATE DE ÎNVĂŢĂMÎNT LICEUL TEORETIC ""ORIZONT""    39     39    0   100.00   6.84
+97   GAGAUZIA   CEADÎR LUNGA    FILIALA CEADÎR LUNGA A INSTITUŢIEI PRIVATE DE ÎNVĂŢĂMÎNT LICEUL TEORETIC ""ORIZONT""    39     39    0   100.00   6.84
 98   BASARABEASCA   ABACLIA          INSTITUŢIA PUBLICĂ LICEUL TEORETIC ""CONSTANTIN STERE""           30         30    0   100.00   6.82
 99   CHISINAU       CENTRU   Liceul Teoretic ""Titu Maiorescu""                                  19         19    0   100.00   6.81
 100   CHISINAU       RISCANI    LICEUL TEORETIC ""ALECU RUSSO""                                   47         47    0   100.00   6.80
@@ -104,7 +104,7 @@ const bac2019 = `
 103   CHISINAU       RISCANI    Liceul Teoretic ""Mihail Sadoveanu""                              45         45    0   100.00   6.77
 104   CHISINAU       BOTANICA   Liceul Teoretic ""Mihai Grecu""                                   38         38    0   100.00   6.76
 105   DUBĂSARI       DOROŢCAIA        Liceul Teoretic Doroţcaia                                         16         16    0   100.00   6.75
-106   GAGAUZIA   CEADÎR-LUNGA    LICEUL TEORETIC ""V.MOŞCOV""mun. CEADÎR-LUNGA                         43         43    0   100.00   6.73
+106   GAGAUZIA   CEADÎR LUNGA    LICEUL TEORETIC ""V.MOŞCOV""mun. CEADÎR LUNGA                         43         43    0   100.00   6.73
 107   EDINET         CUPCINI          Instituţie Publică Liceul Teoretic ""Sofia Kovalevskaia""         18         18    0   100.00   6.71
 108   SÎNGEREI       CUBOLTA          INSTITUŢIA PUBLICĂ LICEUL TEORETIC ""PAN HALIPPA""                12         12    0   100.00   6.71
 109   FLOREŞTI       FLOREŞTI         Liceul Teoretic ""M. Costin""                                     38         38    0   100.00   6.68
@@ -184,7 +184,7 @@ const bac2019 = `
 183   DROCHIA        DROCHIA          Instituţia Publică Liceul rus nr.3                               20   19   1   95.00   6.25
 184   ORHEI          ORHEI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC ""ALECU RUSSO""               39   37   2   94.87   7.13
 185   BALTI          BALTI            LICEUL TEORETIC ""V. ALECSANDRI""                                39   37   2   94.87   6.89
-186   GAGAUZIA   CEADÎR-LUNGA    LICEUL TEORETIC RAIONAL ""M.GUBOGLO"" MUN. CEADÎR-LUNGA              39   37   2   94.87   6.83
+186   GAGAUZIA   CEADÎR LUNGA    LICEUL TEORETIC RAIONAL ""M.GUBOGLO"" MUN. CEADÎR LUNGA              39   37   2   94.87   6.83
 187   OCNIŢA         OTACI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC ""MIHAI EMINESCU""            19   18   1   94.74   6.50
 188   CAUSENI        CÎRNĂŢENI        INSTITUŢIA PUBLICĂ LICEUL TEORETIC ""GRIGORE GRIGORIU""          19   18   1   94.74   5.93
 189   STRĂŞENI       COJUŞNA          INSTITUŢIA PUBLICĂ LICEUL TEORETIC ""ALECU RUSSO""               36   34   2   94.44   7.07
@@ -269,7 +269,7 @@ const bac2019 = `
 268   GAGAUZIA   CONGAZ           LICEUL TEORETIC ""TODUR ZANET"" s.CONGAZ                       15    12    3   80.00   6.77
 269   CAHUL          ALEXANDRU IOAN CUZA   Instituţia Publică Liceul Teoretic ""A.Mateevici""             20    16    4   80.00   6.72
 270   CRIULENI       BOŞCANA          Liceul Teoretic ""Mihai Stratulat""                            24    19    5   79.17   6.05
-271   GAGAUZIA   CEADÎR-LUNGA     LICEUL TEORETIC Nr. 2 mun. CEADÎR-LUNGA                            14    11    3   78.57   6.56
+271   GAGAUZIA   CEADÎR LUNGA     LICEUL TEORETIC Nr. 2 mun. CEADÎR LUNGA                            14    11    3   78.57   6.56
 272   BASARABEASCA   BASARABEASCA     INSTITUŢIA PUBLICĂ LICEUL TEORETIC ""ALEXANDR PUŞKIN""             23    18    5   78.26   6.17
 273   BRICENI        CARACUŞENII VECHI    Liceul Teoretic Caracuşenii Vechi                               9     7    2   77.78   7.32
 274   GLODENI        BALATINA         INSTITUŢIA PUBLICĂ LICEUL TEORETIC BALATINA                    34    26    8   76.47   6.94

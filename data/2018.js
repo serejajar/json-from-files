@@ -57,7 +57,7 @@ const bac2018 = `
 56   CHISINAU       BUIUCANI   Instituţia Publică Liceul Teoretic ""Principesa Natalia Dadiani""   87   87   0   100.00   6.99
 57   TARACLIA       VALEA PERJEI     INSTITUŢIA PUBLICĂ LICEUL TEORETIC ""HRISTO BOTEV""                 18   18   0   100.00   6.99
 58   DROCHIA        DROCHIA          Instituţia Publică Liceul Teoretic ""Bogdan Petriceicu Hasdeu""     44   44   0   100.00   6.98
-59   GAGAUZIA   CEADÎR-LUNGA    LICEUL TEORETIC ""V.MOŞCOV"" OR CEADÎR-LUNGA                            38   38   0   100.00   6.97
+59   GAGAUZIA   CEADÎR LUNGA    LICEUL TEORETIC ""V.MOŞCOV"" OR CEADÎR LUNGA                            38   38   0   100.00   6.97
 60   CAUSENI        CAUSENI          INSTITUŢIA PUBLICĂ LICEUL TEORETIC ""MIHAI EMINESCU""               39   39   0   100.00   6.96
 61   CHISINAU       CENTRU   Instituţia Publică Liceul Teoretic ""Minerva""                        25   25   0   100.00   6.95
 62   GAGAUZIA   COMRAT           LICEUL TEORETIC ""M.EMINESCU"" mun. COMRAT                          21   21   0   100.00   6.93
@@ -136,7 +136,7 @@ const bac2018 = `
 135   BALTI          BALTI            Liceul Teoretic Republican ""Ion Creangă""                                      127        123      4   96.85   7.16
 136   CHISINAU       CIOCANA   Instituţia Publică Liceul Teoretic ""Petru Zadnipru""                             63         61      2   96.83   6.61
 137   CHISINAU       CHISINAU         Liceul Teoretic cu Profil Real ""Mihai Marinciuc""                               60         58      2   96.67   6.92
-138   GAGAUZIA   CEADÎR-LUNGA    FILIALA CEADÎR-LUNGA A INSTITUŢIEI PRIVATE DE ÎNVĂŢĂMÎNT LICEUL TEORETIC ""ORIZONT""             29   28      1   96.55   6.80
+138   GAGAUZIA   CEADÎR LUNGA    FILIALA CEADÎR LUNGA A INSTITUŢIEI PRIVATE DE ÎNVĂŢĂMÎNT LICEUL TEORETIC ""ORIZONT""             29   28      1   96.55   6.80
 139   CHISINAU       BUIUCANI   Instituţia Publică Liceul Teoretic cu Profil de Arte ""Ion şi Doina Aldea-Teodorovici""    29         28      1   96.55   5.79
 140   ORHEI          ORHEI            INSTITUŢIA PUBLICĂ LICEUL TEORETIC ""ION LUCA CARAGIALE""                        84         81      3   96.43   6.76
 141   CĂLĂRAŞI       SIPOTENI         Instituţia Publică Liceul Teoretic ""Mihai Eminescu""                            28         27      1   96.43   6.56
@@ -205,7 +205,7 @@ const bac2018 = `
 204   BRICENI        BRICENI          Liceul Teoretic nr.1 Briceni                                     24   22    2   91.67   6.55
 205   CAUSENI        SĂLCUŢA          INSTITUŢIA PUBLICĂ LICEUL TEORETIC ""MEŞTERUL MANOLE""           24   22    2   91.67   6.55
 206   ŞOLDĂNEŞTI     ŞOLDĂNEŞTI       Instituţia Publică Liceul Teoretic ""Ştefan cel Mare""           24   22    2   91.67   6.32
-207   GAGAUZIA   CEADÎR-LUNGA    LICEUL TEORETIC RAIONAL ""M.GUBOGLO"" or. CEADÎR-LUNGA               46   42    4   91.30   6.72
+207   GAGAUZIA   CEADÎR LUNGA    LICEUL TEORETIC RAIONAL ""M.GUBOGLO"" or. CEADÎR LUNGA               46   42    4   91.30   6.72
 208   STRĂŞENI       COJUŞNA          INSTITUŢIA PUBLICĂ LICEUL TEORETIC ""ALECU RUSSO""               34   31    3   91.18   6.73
 209   NISPORENI      GROZEŞTI         Instituţia Publică Liceul Teoretic ""Prometeu""                  33   30    3   90.91   7.11
 210   BRICENI        BRICENI          Liceul Teoretic ""Grigore Vieru""                                22   20    2   90.91   7.09
@@ -288,7 +288,7 @@ const bac2018 = `
 287   UNGHENI        UNGHENI         LICEUL TEORETIC ""ION CREANGĂ""                              35    24   11   68.57   6.02
 288   DROCHIA        POPEŞTII DE SUS    Instituţia Publică Liceul Teoretic ""Ion Creangă""           19    13    6   68.42   7.02
 289   CHISINAU       COLONIŢA        Liceul Teoretic ""Gh.Ghimpu""                                19    13    6   68.42   6.46
-290   GAGAUZIA   CEADÎR-LUNGA    Liceul Teoretic Nr. 2 or. CEADÎR-LUNGA                          22    15    7   68.18   6.56
+290   GAGAUZIA   CEADÎR LUNGA    Liceul Teoretic Nr. 2 or. CEADÎR LUNGA                          22    15    7   68.18   6.56
 291   BRICENI        TREBISĂUŢI      Liceul Teoretic Trebisăuţi                                    9     6    3   66.67   7.00
 292   RÎŞCANI        VĂRATIC         LICEUL TEORETIC VĂRATIC                                      18    12    6   66.67   6.48
 293   RÎŞCANI        CORLĂTENI       LICEUL TEORETIC ""VICTOR DUMBRĂVEANU""                       15    10    5   66.67   6.05
