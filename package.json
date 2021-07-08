@@ -1,7 +1,7 @@
 {
   "name": "json-from-files",
   "version": "1.0.0",
-  "description": "Simple PDF parser by nodejs",
+  "description": "json-from-files",
   "main": "index.js",
   "scripts": {
     "test": "jest",
